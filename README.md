@@ -2,6 +2,6 @@
 
 Platform to play sounds of different musical devices!
 
-![alt text](https://lh3.googleusercontent.com/VzvRI3v-j8RZGRJGLihdnL9LujrPkS1nUAgtgwqb0qeEgvIKrZJ8K7uvE0k1YjdMK5lkNKWuneDyYlYYxmsMw-L9Ua_tLMJMlPPS9LCGZ3d-0ksNElFh1sEUDwoHVUYGJ1956ktSHK1xNqCImPH2Xtwiaal_FHebePv3i3mTdcsIXkJGkXwK62Ok_D-VlUxNPEkRkRSUZiji0dmDub79bY6q15Xbm41w-9_7pkGKzWfxDAakQ7Nh5UY9HK3i20FQzXMvovGt6mhpvXeEiDHdOD9okE6xh8HRvYZtVObuKB_MDCWmUvB-ijtfIqunqp9MYw30NSKxPB5h_CDb4lDvV3YVDMNMoRPZ2YWK1YW2V9YXJowUUWU3TORjKBZYty0e1bSkFjlk_y0uhdnz-4oR4rWrOHjVQMYW9sqNuT-FWr2zrqcCMngeBGrIAqwO8kq7ZOJV1pWfMnNPULh_TfYL4ncqjudhDmMAF43QSkvaDuD8uF2Q2lAM0as0DVwa0lyH878JN0HOl-9mzw0gy6kX_E4PZ9lNAapGI1x4mxDabRlUeP_6GDaSgQzM2SUCKtqaKgCkLLFEKXJljb-a1gJPP_gI2sYEBIJuyTlNiLlHNuXhmgdLTO9T_IZdg2oeLaINBn3EfWrc3BrqwJ83B9oBazuqCrXr6bVb2GFyNPEpmFpRw1MjbOotYKSEcG4pTKL3U6BGgPMAyJRDlAtRyGLMXrg=w1654-h849-no?authuser=0)
+![alt text](https://i.ibb.co/ZS1K9BN/Screenshot-2022-01-15-161534.png)
   
   Live Link :  	[https://shiyadh123.github.io/Drumkit/](https://shiyadh123.github.io/Drumkit/)
